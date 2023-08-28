@@ -1,0 +1,19 @@
+.about {
+    width: 100%;
+    margin: 3rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: centre;
+    flex-wrap: wrap;
+    height: 100%;
+}
+.left {
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+
+.left p {
+    margin: 1.2rem 0;
+}
